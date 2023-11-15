@@ -29,6 +29,8 @@ const questions = [
 
 async function init() {
 const answers = await inquirer.prompt(questions);    
+let startmenu = "";
+
 }
 init()
 // GIVEN a command-line application that accepts user input
