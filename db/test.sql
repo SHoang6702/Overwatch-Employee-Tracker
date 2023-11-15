@@ -1,3 +1,1 @@
-select * from department; 
-select * from role; 
-select * from employee;
+-- This is blank for now, will work on later
