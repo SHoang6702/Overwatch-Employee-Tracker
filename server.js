@@ -37,6 +37,7 @@ let startmenu = "";
 
 }
 init()
+
 // GIVEN a command-line application that accepts user input
 
 // WHEN I start the application (Complete)
